@@ -52,3 +52,26 @@ a:hover {
   display: flex;
   gap: 20px;
 }
+
+@media only screen and (max-width: 900px) {
+  .nav2 {
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+  }
+  .con {
+    padding: 0 10px;
+  }
+  .nav {
+    height: auto;
+    padding-bottom: 10px;
+  }
+  .nav-ul {
+    display: block;
+    text-align: center;
+    line-height: 20px;
+  }
+  .color {
+    background-position: center;
+  }
+}
