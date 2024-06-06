@@ -12,6 +12,7 @@ body {
 .con {
   margin: 0 auto;
   max-width: 1000px;
+  padding: 10px;
 }
 
 .nav {
@@ -78,7 +79,11 @@ a:hover {
   .nav-ul {
     display: block;
     text-align: center;
-    line-height: 20px;
+    line-height: 40px;
+  }
+  .logo {
+    width: 150px;
+    height: 150px;
   }
   .color {
     background-position: center;
