@@ -58,7 +58,7 @@ a:hover {
 
 .nav-ul {
   display: flex;
-  gap: 5px;
+  gap: 15px;
 }
 
 @media only screen and (max-width: 900px) {
