@@ -15,12 +15,6 @@ body {
   padding: 10px;
 }
 
-.nav {
-  height: 200px;
-  background-color: #000000;
-  opacity: 0.5;
-}
-
 .nav2 {
   display: flex;
   justify-content: space-between;
@@ -43,7 +37,7 @@ li {
 
 a {
   text-decoration: none;
-  color: #ffaa00;
+  color: rgba(255, 255, 255, 0.5647058824);
   transition: 1s;
   opacity: 1;
 }
@@ -70,7 +64,7 @@ a:hover {
     justify-content: center;
   }
   .con {
-    padding: 0 10px;
+    padding: 0 20px;
   }
   .nav {
     height: auto;
