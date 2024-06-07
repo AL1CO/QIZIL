@@ -35,7 +35,8 @@ a {
   color: #ffffff90;
   transition: 1s;
   opacity: 1;
-  font-size: 18px;
+  font-size: 10px;
+  font-weight: 800;
 }
 a:hover {
   color: #ff0000;
@@ -77,5 +78,11 @@ a:hover {
   }
   .color {
     background-position: center;
+  }
+  li {
+    margin-bottom: 25px;
+  }
+  a {
+    font-size: 12px;
   }
 }

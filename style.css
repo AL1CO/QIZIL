@@ -41,7 +41,8 @@ a {
   color: rgba(255, 255, 255, 0.5647058824);
   transition: 1s;
   opacity: 1;
-  font-size: 18px;
+  font-size: 10px;
+  font-weight: 800;
 }
 
 a:hover {
@@ -85,5 +86,11 @@ a:hover {
   }
   .color {
     background-position: center;
+  }
+  li {
+    margin-bottom: 25px;
+  }
+  a {
+    font-size: 12px;
   }
 }/*# sourceMappingURL=style.css.map */
